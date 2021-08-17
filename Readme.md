@@ -1,0 +1,1 @@
+Sample Practise Project for Azure DevOps
